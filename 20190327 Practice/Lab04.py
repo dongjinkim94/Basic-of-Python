@@ -9,4 +9,3 @@ for f in range(0, 101, 10):
     c = float((f - 32) * 5 / 9)
     print("%d -> %.2f" % (f, c))
     # print(f,"->,round(2,c))
-

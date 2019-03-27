@@ -9,17 +9,17 @@ c = int(input("C = "))
 determine = (b ** 2) - (4 * a * c)
 if a == 0 and b != 0:
     x = -c / b
-    print("x = %.2f" %x)
+    print("x = %.2f" % x)
 elif a == 0 and b == 0:
     print("근이 없습니다.")
 else:
     if determine == 0:
-        x = (-b + determine ** 0.5) / (2*a)
-        print("x = %.2f" %x)
+        x = (-b + determine ** 0.5) / (2 * a)
+        print("x = %.2f" % x)
     elif determine > 0:
         x1 = (-b + determine ** 0.5) / (2 * a)
         x2 = (-b - determine ** 0.5) / (2 * a)
-        print("x1 = %.2f" %x1)
-        print("x2 = %.2f" %x2)
+        print("x1 = %.2f" % x1)
+        print("x2 = %.2f" % x2)
     else:
         print("근이 없습니다.")
