@@ -22,17 +22,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab02.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab04.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="4" selection-end-column="61" />
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab03.py">
+        <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="171">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -72,6 +90,8 @@
         <option value="$PROJECT_DIR$/20190403 Practice/Lab01.py" />
         <option value="$PROJECT_DIR$/20190403 Practice/Lab02.py" />
         <option value="$PROJECT_DIR$/20190403 Practice/Lab03.py" />
+        <option value="$PROJECT_DIR$/20190403 Practice/Lab04.py" />
+        <option value="$PROJECT_DIR$/20190403 Practice/Lab05.py" />
       </list>
     </option>
   </component>
@@ -121,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lab02">
+  <component name="RunManager" selected="Python.Lab05">
     <configuration name="Lab01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic-of-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lab03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic-of-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190327 Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190403 Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190327 Practice/Lab12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190403 Practice/Lab03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lab04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic-of-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,11 +213,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190327 Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190403 Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190327 Practice/Lab13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190403 Practice/Lab04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lab05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic-of-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,11 +234,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190327 Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190403 Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190327 Practice/Lab14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190403 Practice/Lab05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab05" />
+        <item itemvalue="Python.Lab04" />
+        <item itemvalue="Python.Lab03" />
         <item itemvalue="Python.Lab02" />
         <item itemvalue="Python.Lab01" />
-        <item itemvalue="Python.Lab14" />
-        <item itemvalue="Python.Lab13" />
-        <item itemvalue="Python.Lab12" />
       </list>
     </recent_temporary>
   </component>
@@ -252,15 +272,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30151844" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30151844" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -326,6 +345,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -333,17 +366,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab02.py">
+    <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="61" />
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab03.py">
+    <entry file="file://$PROJECT_DIR$/20190403 Practice/Lab05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="171">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
