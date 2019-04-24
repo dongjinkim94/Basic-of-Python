@@ -7,12 +7,16 @@
 # "A가B나C다DEFG"를 출력해야 한다.
 # 단, 문자열을 결합하는 코드는 함수로 저의되어야 한다.
 
-str = ""
+def CrossString(s1, s2):
+    s1Len = len(s1)
+    s2Len = len(s2)
+    finish = min(s1Len, s2Len)
+    for i in range(0, finish):
+        print("%s%s" % (s1[i], s2[i]), end="")
+    for i in range(finish, s1Len):
+        print("%s" % s1[i], end="")
 
-input1 = input("첫 번째 문자열 입력: ")
-input2 = input("두 번째 문자열 입력: ")
-
-if len(input1) > len(input2):
-    for i in input1:
-
+s1 = input("첫 번째 문자열 입력: ")
+s2 = input("두 번째 문자열 입력: ")
+CrossString(s1, s2)
 # 두 문자열 길이의 차를 어떻게 처리하는지가 핵심
