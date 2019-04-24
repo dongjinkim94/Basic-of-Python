@@ -10,20 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190417 Practice/Lab17.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="7" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20190417 Practice/Lab18.py">
+        <entry file="file://$PROJECT_DIR$/20190424 Practice/Lab01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="19">
+              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -43,7 +34,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/20190327 Practice/Lab 3.py" />
         <option value="$PROJECT_DIR$/20190327 Practice/Lab 4.py" />
         <option value="$PROJECT_DIR$/20190327 Practice/Lab5.py" />
         <option value="$PROJECT_DIR$/20190327 Practice/Lab 5.py" />
@@ -91,9 +81,10 @@
         <option value="$PROJECT_DIR$/20190417 Practice/Lab12.py" />
         <option value="$PROJECT_DIR$/20190417 Practice/Lab14.py" />
         <option value="$PROJECT_DIR$/20190417 Practice/Lab15.py" />
-        <option value="$PROJECT_DIR$/20190417 Practice/Lab16.py" />
-        <option value="$PROJECT_DIR$/20190417 Practice/Lab17.py" />
         <option value="$PROJECT_DIR$/20190417 Practice/Lab18.py" />
+        <option value="$PROJECT_DIR$/20190417 Practice/Lab17.py" />
+        <option value="$PROJECT_DIR$/20190417 Practice/Lab16.py" />
+        <option value="$PROJECT_DIR$/20190424 Practice/Lab01.py" />
       </list>
     </option>
   </component>
