@@ -22,14 +22,18 @@ def func_2(friendsList):
 
 def func_3(friendsList):
     deleteName = input("이름을 입력하시오: ")
-    friendsList.remove(deleteName)
-
+    if deleteName in friendsList:
+        friendsList.remove(deleteName)
+    else:
+        print("이름이 발견되지 않았습니다.")
 def func_4(friendsList):
     beforeChangeName = input("변경전 이름을 입력하시오: ")
-    index = friendsList.index(beforeChangeName)
-    afterChangeName = input("변경할 이름을 입력하시오: ")
-    friendsList[index] = afterChangeName
-
+    if beforeChangeName in friendsList:
+        index = friendsList.index(beforeChangeName)
+        afterChangeName = input("변경할 이름을 입력하시오: ")
+        friendsList[index] = afterChangeName
+    else:
+        print("이름이 발견되지 않았습니다.")
 friendsList = []
 
 while True:
