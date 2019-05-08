@@ -11,6 +11,7 @@
 # for line in file:
 #   lineWords = line.split()
 
+############# 남의 코드 #############
 fname = input("입력 파일 이름: ")
 file = open(fname, "r")  # r = read only, w = write
 a = set([])
@@ -31,3 +32,6 @@ for line in file:
         a.add(new_words.lower())
 print(a)
 print("%d개의 단어(중복제외)" % (len(a)))
+
+########### SOLUTION  ###########
+def
