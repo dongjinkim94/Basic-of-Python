@@ -11,55 +11,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab01.py">
+        <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="73" />
+            <state relative-caret-position="456">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab02.py">
+        <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab02.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="24" />
+              <caret line="9" column="20" lean-forward="true" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab03.py">
+        <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="40" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab04.py">
+        <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="44" />
+            <state relative-caret-position="152">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab05.py">
+        <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab06.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="6" selection-end-column="30" />
+              <caret selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab06.py">
+        <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab08.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="247">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -79,15 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/20190410 Practice/Lab06.py" />
-        <option value="$PROJECT_DIR$/20190410 Practice/Lab07.py" />
-        <option value="$PROJECT_DIR$/20190410 Practice/Lab08.py" />
-        <option value="$PROJECT_DIR$/20190410 Practice/Lab09.py" />
-        <option value="$PROJECT_DIR$/20190410 Practice/Lab10.py" />
-        <option value="$PROJECT_DIR$/20190417 Practice/Lab01.py" />
-        <option value="$PROJECT_DIR$/20190417 Practice/Lab02.py" />
-        <option value="$PROJECT_DIR$/20190417 Practice/Lab03.py" />
-        <option value="$PROJECT_DIR$/20190417 Practice/Lab04.py" />
         <option value="$PROJECT_DIR$/20190417 Practice/Lab05.py" />
         <option value="$PROJECT_DIR$/20190417 Practice/ㅣ뮤6.py" />
         <option value="$PROJECT_DIR$/20190417 Practice/Lab07.py" />
@@ -130,12 +139,20 @@
         <option value="$PROJECT_DIR$/20190508/Lab05.py" />
         <option value="$PROJECT_DIR$/20190515 Practice/Lab05.py" />
         <option value="$PROJECT_DIR$/20190515 Practice/Lab06.py" />
+        <option value="$PROJECT_DIR$/20190522 Practice.py" />
+        <option value="$PROJECT_DIR$/20190522 Practice/Lab02.py" />
+        <option value="$PROJECT_DIR$/20190522 Practice/Lab01.py" />
+        <option value="$PROJECT_DIR$/20190522 Practice/Lab03.py" />
+        <option value="$PROJECT_DIR$/20190522 Practice/Lab04.py" />
+        <option value="$PROJECT_DIR$/20190522 Practice/Lab05.py" />
+        <option value="$PROJECT_DIR$/20190522 Practice/Lab06.py" />
+        <option value="$PROJECT_DIR$/20190522 Practice/Lab07.py" />
+        <option value="$PROJECT_DIR$/20190522 Practice/Lab08.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="599" />
-    <option name="y" value="9" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -144,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,11 +174,15 @@
               <item name="Basic_of_Python" type="462c0819:PsiDirectoryNode" />
               <item name="20190515 Practice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Basic_of_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic_of_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="20190522 Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,13 +190,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SH408\Documents\GitHub\Basic_of_Python\20190522 Practice" />
+      <recent name="C:\Users\SH408\Documents\GitHub\Basic_of_Python\20190515 Practice" />
+      <recent name="C:\Users\SH408\Documents\GitHub\Basic_of_Python\20190508" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SH408\Documents\GitHub\Basic_of_Python\20190515 Practice" />
       <recent name="C:\Users\SH408\Documents\GitHub\Basic_of_Python\20190410 Practice" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SH408\Documents\GitHub\Basic_of_Python\20190515 Practice" />
-      <recent name="C:\Users\SH408\Documents\GitHub\Basic_of_Python\20190508" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -189,8 +212,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lab06">
-    <configuration name="Lab03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Lab08">
+    <configuration name="Lab04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic-of-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,53 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190515 Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190522 Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190515 Practice/Lab03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab04 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Basic-of-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190515 Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190515 Practice/Lab04.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab05 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Basic-of-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190515 Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190515 Practice/Lab05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190522 Practice/Lab04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190508" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190522 Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190508/Lab05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190522 Practice/Lab05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Lab06 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic-of-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,11 +263,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190515 Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190522 Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190515 Practice/Lab06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190522 Practice/Lab06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Basic-of-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190522 Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190522 Practice/Lab07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Basic-of-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20190522 Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20190522 Practice/Lab08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab06" />
-        <item itemvalue="Python.Lab05 (1)" />
+        <item itemvalue="Python.Lab08" />
+        <item itemvalue="Python.Lab07" />
+        <item itemvalue="Python.Lab06 (1)" />
         <item itemvalue="Python.Lab05" />
-        <item itemvalue="Python.Lab04 (1)" />
-        <item itemvalue="Python.Lab03" />
+        <item itemvalue="Python.Lab04" />
       </list>
     </recent_temporary>
   </component>
@@ -320,6 +343,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.087987356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -360,62 +384,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20190424 Practice/Lab04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190424 Practice/Lab06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190424 Practice/Lab05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190424 Practice/Lab07.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190410 Practice/Lab02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190410 Practice/Lab03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190410 Practice/Lab04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190410 Practice/Lab05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20190410 Practice/Lab06.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -619,51 +587,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190508/Lab01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190508/Lab02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190508/Lab03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190508/Lab04_proverbs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/20190508/Lab01.py" />
+    <entry file="file://$PROJECT_DIR$/20190508/Lab02.py" />
+    <entry file="file://$PROJECT_DIR$/20190508/Lab03.py" />
+    <entry file="file://$PROJECT_DIR$/20190508/Lab04_proverbs.txt" />
     <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab02_proverbs.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab01.py">
+    <entry file="file://$PROJECT_DIR$/20190508/Lab04.py" />
+    <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab05_students.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="73" />
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20190508/Lab04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="33" column="33" lean-forward="true" selection-start-line="14" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/20190508/Lab05.py" />
     <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -675,20 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab05_students.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20190508/Lab05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -708,8 +633,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab06.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190515 Practice/Lab01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="20" lean-forward="true" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190522 Practice/Lab08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
