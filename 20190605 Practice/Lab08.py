@@ -8,5 +8,6 @@ sum = 0
 start = time.time()
 for i in range(1,N*N+1):
     sum += i
+end = time.time() - start
 print("합계 :",sum)
-print("실행시간 :",start)
+print("실행시간 :",end)
