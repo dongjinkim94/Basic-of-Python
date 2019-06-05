@@ -6,13 +6,7 @@ while N <= 1:
     print("잘못입력하셨습니다.")
     N = int(input("2 이상의 자연수 입력 : "))
 
-a = list();
-i = 0
-
-while i <= N:
-    a.append(i)
-    i += 1
-
+a = list(range(N + 1))
 a[1] = 0
 i = 2
 
